@@ -1,0 +1,4 @@
+client_id = 'b363d9aca71e489288cf75cfa36f0cb3'
+client_secret = '5ea97928e5b64281b752d125a100dc66'
+refresh_token = 'AQDI_k6i2ZeW9v7yfsC2-THiGM6cejnJP5kOQ2nvSQs1HG-u8fVINjGvZlZIrz3Jn7Fye4hXA1tVghY_5BQAyKbwq_fS0Mcf5usBQ_xVKKxdqO24I8aTiT1Eb5QQbPpRVXdpUbU8td1TYXDJyEbznbo_bJBoGEa32ZZ7rUVBTB9afWy8332MIDAmHtO0AFylLhsgtWFayQ_qfwB1XEqew12BVk7MXrmEi8zo2RU6-Puu5H7hXHX8Vtm2qcQGo9q9Q5RWbG65RSVww4ImI-zm1y5tsVTctK9wdVOie6MbT7I'
+redirect_url = 'https://google.com'
